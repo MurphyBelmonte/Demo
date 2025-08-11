@@ -27,7 +27,7 @@
                 break;
             case 2:
                 result = a - b;
-                Console.WriteLine($"The difference is: {result}");
+                Console.WriteLine($"The substraction is: {result}");
                 break;
             case 3:
                 result = a * b;
