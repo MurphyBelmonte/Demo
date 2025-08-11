@@ -4,10 +4,10 @@
     {
         Console.WriteLine("Calculator");
         
-        Console.Write("Enter the 1st number: ");
+        Console.Write("Enter the first number: ");
         int a = Convert.ToInt32(Console.ReadLine());
         
-        Console.Write("Enter the 2nd number: ");
+        Console.Write("Enter the second number: ");
         int b = Convert.ToInt32(Console.ReadLine());
         
         Console.WriteLine("Choose operation:");
